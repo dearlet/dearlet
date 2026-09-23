@@ -7,13 +7,9 @@
 </a> 
 
 
- $$\color{#454545}\text{check ouu my strawpage}\$$
+ $$\color{#454545}\text{im not into all fandoms like wtf}\$$
 
 
 
    
-<p align="center">
-<a href="https://letsdie.straw.page/" target="blank">
-  <img src="https://github.com/user-attachments/assets/f633142a-6e40-419e-8269-69a234605bf3" alt="hi" width=130>
-</a> 
 
