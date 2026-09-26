@@ -3,10 +3,10 @@
 
 <p align="center">
 <a href="https://letsdie.straw.page/" target="blank">
-  <img src="https://github.com/user-attachments/assets/db27625b-5d19-470f-a648-ab6f3cd73ea3" alt="hi" width=25>
+  <img src="https://github.com/user-attachments/assets/aa5d2892-685e-4fcd-9674-6a59c878c280" alt="hi" width=65>
 </a>
 
-<sub>i will finish later, and strawpage too.</sub>
+<sub>i will finish later </sub>
 
 
 
