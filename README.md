@@ -12,8 +12,18 @@
 
 <p align="center">
 <a href="https://letsdie.straw.page/" target="blank">
-  <img src="https://github.com/user-attachments/assets/4be4edb4-f8d7-413c-b023-3d1a3c171254" alt="hi" width=201>
+  <img src="https://github.com/user-attachments/assets/1771f5b0-5588-41a1-9b90-a883b783ff25" alt="hi" width=201>
 </a>
+
+
+<a href="https://letsdie.straw.page/" target="blank">
+  <img src="https://github.com/user-attachments/assets/a4c30084-24c6-41ff-9a28-c5406c38ee43" alt="hi" width=201>
+</a>
+
+
+
+
+
 
 
 
