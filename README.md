@@ -31,7 +31,7 @@ ____
 
 
 <p align="center">
-<a href="https://letsdie.straw.page/" target="blank">
+<a href="https://rentry.co/02qjjak" target="blank">
   <img src="https://github.com/user-attachments/assets/117c3f88-bb04-42dd-be75-77a0b23ad8aa" alt="hi" width=255>
 </a>
 
