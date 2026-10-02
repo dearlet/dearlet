@@ -3,36 +3,14 @@
 
 <p align="center">
 <a href="https://letsdie.straw.page/" target="blank">
-  <img src="https://github.com/user-attachments/assets/84f55a88-49b5-4ee8-8985-4ac29e0203bc" alt="hi" width=355>
+  <img src="https://github.com/user-attachments/assets/e54bb699-09a9-4caa-b345-56e0520bec0a" alt="hi" width=355>
 </a>
 
 ____
 
 
 
-<p align="center">
-<a href="https://letsdie.straw.page/" target="blank">
-  <img src="https://github.com/user-attachments/assets/1771f5b0-5588-41a1-9b90-a883b783ff25" alt="hi" width=201>
-</a>
 
-
-
-
-
-<a href="https://02qjjsk.straw.page" target="blank">
-  <img src="https://github.com/user-attachments/assets/9fc79e1f-aa1e-40e7-9b78-546bd13422a2" alt="hi" width=201>
-</a>
-
-
-
-
-____
-
-
-<p align="center">
-<a href="https://rentry.co/02qjjak" target="blank">
-  <img src="https://github.com/user-attachments/assets/117c3f88-bb04-42dd-be75-77a0b23ad8aa" alt="hi" width=255>
-</a>
 
 
 
