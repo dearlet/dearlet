@@ -37,17 +37,12 @@ ____
 
 
 
-<a href="https://02wjjak.atabook.org/?page=1" target="blank">
-  <img src="https://github.com/user-attachments/assets/43465a05-0538-44cf-b8b2-d9bca96cfe51" alt="hi" width=259>
-</a>
 
 
 
 
 
-
-
-<sub>my ata is kinda colorful </sub>
+<sub>my ata is gone because wip </sub>
 
  
 
