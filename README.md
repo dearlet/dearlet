@@ -20,7 +20,7 @@
 
 
 <sub>[rentry](https://rentry.co/03qjjak)</sub>
-<sub>[atabook](https://02wjjak.atabook.org/) </sub>
+
 
 
 
