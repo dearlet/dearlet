@@ -19,7 +19,7 @@
 
 
 
-<sub>[rentry](https://rentry.co/03qjjak)</sub>
+
 
 
 
