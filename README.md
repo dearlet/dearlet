@@ -3,13 +3,14 @@
 
 <p align="center">
 <a href="" target="blank">
-  <img src="https://github.com/user-attachments/assets/bf66de0e-f2a3-4261-94a1-8efa7ee334b8" alt="hi" width=255>
+  <img src="https://github.com/user-attachments/assets/ad6a2d82-11fd-481c-a63b-4fa96695d097" alt="hi" width=107>
 </a>
+
  
- <sub>me at strawberry farm<sub>
-
-
-
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ     work in 
+ progess
+ 
+   
 
 
 
